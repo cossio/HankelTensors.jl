@@ -10,6 +10,8 @@ Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
 ValueHistories = "98cad3c8-aec3-5f06-8e41-884608649ab7"
 
 [compat]
+Tullio = "0.3.9"
+ValueHistories = "0.5.6"
 julia = "1.12"
 
 [workspace]
