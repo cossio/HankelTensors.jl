@@ -4,6 +4,8 @@ name: CI
 # workflows -- so master would otherwise be left with no CI run at HEAD.
 on:
   push:
+    branches:
+      - master
   pull_request:
   workflow_dispatch:
 jobs:
